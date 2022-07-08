@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test task from Siema (2)", "Test task from Siema (2)\Test task from Siema (2).csproj", "{489B78B9-1546-498C-82CB-390AA9E257BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489B78B9-1546-498C-82CB-390AA9E257BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489B78B9-1546-498C-82CB-390AA9E257BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489B78B9-1546-498C-82CB-390AA9E257BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489B78B9-1546-498C-82CB-390AA9E257BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A108F97-D7B8-4D70-91F4-7FDC9967DE80}
+	EndGlobalSection
+EndGlobal
